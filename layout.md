@@ -2,6 +2,7 @@ begin_abstract_The_offshore_wind__.tex
 begin_Introduction_end_Introduction__.tex
 section_Introduction_The_offshore_wind__.tex
 section_Methodology_The_model_has__.tex
+figures/Flow chart/Flow chart.png
 subsection_Discrete_Event_Simulation_DES__.tex
 subsection_Model_description_The_flow__.tex
 subsection_Weather_Input_data_The__.tex
