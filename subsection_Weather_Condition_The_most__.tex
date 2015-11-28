@@ -6,6 +6,12 @@ The most important input parameter for the offshore transport and installation a
 Workability:- it refers to the condition above which an operation can not be carried out any more (could be wind speed or wave height or both).
 \item Time window:- It refers to the good weather condition in order to complete an operation and is simply the range of workability.
 \end{enumerate}
+The wind profile power law relationship, presented in equation \ref{eqn:windprofile}, is used to estimate the wind speed $u$ at height $z$, when $u_{r}$ is the known wind speed at a reference height $z_{r}$, \cite{1978Peterson}. The exponent $\alpha$ is an empirically derived coefficient that varies dependent on the stability of the atmosphere. Here this coefficient is taken equal to $0.1$, value recommended over open water surfaces.
+
+\begin{equation}
+\label{eqn:windprofile}
+u = u_{r} \left( \frac{z}{z_r} \right)^{\alpha}
+\end{equation}
 
 The weather condition at see changes randomly from time to time and different scenarios have to be taken in to account. In this paper three different weather scenarios have been considered and described as follows. 
 
