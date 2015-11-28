@@ -14,30 +14,7 @@ The wind profile power law relationship, presented in equation \ref{eqn:windprof
 u = u_{r} \left( \frac{z}{z_r} \right)^{\alpha}
 \end{equation}
 
-it is assumed that the percentage of monthly workability assumes normal distribution over time. In order to  generate the normal distribution,the mean and the standard deviation of the percentage workability computed, have been taken in to account. The weather condition at see changes randomly from time to time and different scenarios have to be taken in to account . In this paper three different weather scenarios (Best, Average and worst) have been considered and computed applying the cumulative distribution function (CDF) and its inverse distribution function (quantile function).The cumulative distribution function of the workability (for each month) can be expressed by F(x) = P(X ≤ x) where the right-hand side represents the probability that the random variable X takes on a value less than or equal to x. 
-
-
-
-\begin{enumerate}[label=\roman*]
-\item
-Best weather condition(Q20): Under this assumption the weather is assumed to be at its best condition in order to perform an operation and can be computed using the complementary cumulative probability function. 
-\item
-Average weather condition (50): this simply refers to the mean value of the monthly working percentage and it also represents to the mean of the normal distribution.
-\item Worst weather condition (Q80):- Under this assumption the weather is assumed to be at its worst condition in order to perform an operation and can be computed using the complementary cumulative probability function. 
-\end{enumerate}
-actual data. the best estimates for the unknown mean and standard
-deviation of the theoretical distribution are the mean and the standard deviation of the
-actual data.
-Now that the theoretical distribution is established (for each month), one can also establish
-the cumulative distribution function of the workability (for each month): F(x) = P(X ≤ x). We
-use the inverse of this function to compute the complementary 50%, 20% and 80%-quantile
-(Q20, Q50 and Q80). Note that for the 20% - quantile, we compute x, so that: F(x) = 0,8, as
-we want to know: P(X ≥ x) = 1 - P(X ≤ x).
-Once these workable and waiting times are known for each month of a typical year, the end
-date of the project can be calculated for each of the three cases.
-The statistical values (Q50, Q20 and Q80) can only be calculated in the retrospective
-analysis over a long period.
-The weather condition at see changes randomly from time to time and different scenarios have to be taken in to account. In this paper three different weather scenarios have been considered and described as follows. 
+it is assumed that the percentage of monthly workability assumes normal distribution over time. In order to  generate the normal distribution,the mean and the standard deviation of the percentage workability computed, have been taken in to account. The weather condition at see changes randomly from time to time and different scenarios have to be taken in to account . In this paper three different weather scenarios (Best, Average and worst) have been considered and computed applying the cumulative distribution function (CDF) and its inverse distribution function (quantile function).The cumulative distribution function of the workability (for each month) can be expressed by F(x) = P(X ≤ x) where the right-hand side represents the probability that the random variable X takes on a value less than or equal to x. The quantile function (for example Q80) can be computed by finding the value of x such that F(x)=0.2 .  
 
 \begin{enumerate}[label=\roman*]
 \item
