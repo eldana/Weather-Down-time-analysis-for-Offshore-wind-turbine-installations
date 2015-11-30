@@ -15,4 +15,5 @@ begin_table_label_tab_Sampleinputparameters__.tex
 In_order_to_illustrate_the__.tex
 figures/Q205080/Q205080.png
 Further_analysis_has_also_been__.tex
+figures/Q20Downtime/Q20Downtime.png
 section_Conclusions__.tex
