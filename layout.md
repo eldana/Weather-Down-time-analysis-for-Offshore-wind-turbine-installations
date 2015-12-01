@@ -4,6 +4,7 @@ section_Introduction_The_offshore_wind__.tex
 section_Methodology_The_model_has__.tex
 subsection_Discrete_Event_Simulation_DES__.tex
 subsection_Model_description_The_flow__.tex
+figures/Flowchart/Flowchart.png
 begin_enumerate_item_textbf_Mooring__.tex
 subsection_Weather_Condition_The_most__.tex
 begin_table_label_tab_Sampleworkability__.tex
