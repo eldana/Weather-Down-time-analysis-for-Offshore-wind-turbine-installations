@@ -20,4 +20,5 @@ figures/Q20Downtime/Q20Downtime.png
 The_figure_fig_6_depicts__.tex
 figures/Q1/Q1.png
 The_figure_fig_6_depicts__1.tex
+figures/Q50/Q50.png
 section_Conclusions_In_this_study__.tex
