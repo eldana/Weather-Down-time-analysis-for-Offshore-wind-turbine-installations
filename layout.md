@@ -17,4 +17,5 @@ figures/Q205080/Q205080.png
 Further_analysis_has_also_been__.tex
 figures/Q20Downtime/Q20Downtime.png
 The_figure_fig_6_depicts__.tex
+figures/Q1/Q1.png
 section_Conclusions_In_this_study__.tex
